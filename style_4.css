@@ -1,0 +1,30 @@
+header {
+	text-align: right;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+}
+
+form {
+	text-align: left;
+}
+
+p {
+	font-size: 1.2em;
+	text-align: left;
+}
+
+body {
+	background-image: url("kayaking.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 10vh;
+}
+

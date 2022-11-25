@@ -1,0 +1,60 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
+}
+
+.footer {
+	margin-top: 950px;
+	width: 20;
+	padding: 40px 5%;
+	background: #333;
+	color: #efefef;
+	display: flex;
+}
+
+.footer div {
+	text-align: center;
+}
+
+.col-2 {
+	flex-grow: 2;
+}
+
+.footer div h3 {
+	font-weight: 300;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+}
+
+p {
+	text-align: center;
+
+}
+
+.col-1 a {
+	display: block;
+	text-decoration: none;
+	color: #efefef;
+	margin-bottom: 5px;
+}
+
+.col-2 a {
+	display: block;
+	text-decoration: none;
+	color: #efefef;
+	margin-bottom: 5px;
+}
+
+body {
+	background-image: url("shark feeding.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 10vh;
+}
